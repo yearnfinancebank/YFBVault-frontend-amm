@@ -69,7 +69,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Partnerships/IFO',
+    label: 'IFO',
     icon: 'GooseIcon',
     href: '',
   },
